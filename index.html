@@ -1,0 +1,87 @@
+<!doctype html>
+<!--
+	Steren Giannini's home
+	This website is in a constant Work In Progress state.
+	You can fork it on GitHub (https://github.com/Steren/steren.github.com) and use it for you. Ping me if you do so.
+-->
+<html lang="en" ng-app="portfolio">
+<head>
+	<meta charset="utf-8">
+
+	<link rel="stylesheet" type="text/css" href="css/style.css" />
+	<link rel="stylesheet" type="text/css" href="css/portfolio.css" />
+
+	<title>Steren Giannini</title>
+
+	<meta name="description" content="Personal works">
+	<meta name="author" content="Steren Giannini">
+	
+	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-13041825-1']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>
+</head>
+
+<body>
+
+<div id="steren-websites">
+<ul>
+	<li class="current"><a href="http://www.steren.fr/">works</a></li>
+	<li><a href="http://blog.steren.fr/">blog</a></li>
+	<li><a href="http://labs.steren.fr/">labs</a></li>
+<ul>
+</div>
+
+<div class="wrapper">
+
+<header>
+<h1>Steren Giannini</h1>
+
+<p class="brief">
+I am Steren, technical advisor at <a href="https://sketchfab.com/">Sketchfab</a> and until recently CTO of <a href="http://joshfire.com/">Joshfire</a>. I am currently moving to Munich, Germany.<br/>
+I am an engineer from <a href="http://www.ec-lyon.fr">Centrale Lyon</a>. I previously worked for <a href="http://creativecommons.org/">Creative Commons</a>, <a href="http://www.3ds.com/">Dassault Systèmes</a> and I co-founded <a href="http://www.beansight.com">beansight</a>.<br/>
+I <a href="http://blog.steren.fr/">blog</a>, <a href="http://twitter.com/steren">tweet</a> and do things:
+</p>
+</header>
+
+<div ng-view></div>
+
+<hr/>
+
+<h2>Find me on</h2>
+<ul class="social-links">
+    <li><a href="http://twitter.com/steren" class="social-icon twitter">Twitter</a></li>
+    <li><a href="http://www.linkedin.com/in/sterengiannini/en" class="social-icon linkedin">LinkedIn</a></li>
+    <li><a href="http://github.com/Steren" class="social-icon github" >github</a></li>
+    <li><a href="http://www.youtube.com/user/panninini" class="social-icon youtube">Youtube</a></li>
+    <li><a href="http://www.slideshare.net/sterengiannini" class="social-icon slideshare" >SlideShare</a></li>
+    <li class="hidden"><a href="http://www.lastfm.fr/user/Steren" class="social-icon lastfm">Last.fm</a></li>
+    <li class="hidden"><a href="http://www.flickr.com/photos/steren/" class="social-icon flickr" >Flickr</a></li>
+    <li class="hidden"><a href="http://soundcloud.com/steren" class="social-icon soundcloud">SoundCloud</a></li>
+    <li class="hidden"><a href="http://identi.ca/steren" class="social-icon identica" >Identi.ca</a></li>
+    <li class="hidden"><a href="https://joindiaspora.com/u/steren" class="social-icon diaspora">Diaspora</a></li>
+    <li class="hidden"><a href="http://openclipart.org/media/people/Steren" class="social-icon openclipart">Open Clipart Art</a></li>
+    <li class="hidden"><a href="https://creativecommons.net/Steren" class="social-icon ccnetwork">CC Network</a></li>
+    <li class="hidden"><a href="http://fr.wikipedia.org/wiki/Utilisateur:Pannini" class="social-icon wikipedia">Wikipedia fr</a></li>
+</ul>
+
+
+<script src="lib/underscore-min.js"></script>
+<script src="lib/angular/angular.js"></script>
+<script src="lib/angular/angular-resource.js"></script>
+<script src="js/app.js"></script>
+<script src="js/services.js"></script>
+<script src="js/controllers.js"></script>
+<script src="js/filters.js"></script>
+<script src="js/directives.js"></script>
+
+</body>
+</html>
+
