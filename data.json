@@ -1,0 +1,20 @@
+[
+	{
+		"id": "",
+		"image": "",
+		"featured": true,
+		"size": 15,
+		"completion": "Done",
+		"seriousness": "Serious",
+		"type": "Code",
+		"participation": "Lead",
+		"title": "Profound Ideation Inc.",
+		"category": "web",
+		"date": 2012,
+		"description": ".",
+		"link": {"href":"http://ProfoundIdeation.com", "value":"Profoundideation.com"}
+	},
+	{
+		
+	}
+]
