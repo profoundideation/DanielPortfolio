@@ -1,0 +1,12 @@
+<h2>Featured Projects: (<a href="#/more" class="displayWorks">Click Here To See More Projects</a>)</h2>
+
+
+<div ng-repeat="work in works | filter:{featured:true} | orderBy:'date':true">
+	<a href="{{work.link.href}}" title="{{work.link.title}}" target="_blank" class="work">
+		<img class="icon" ng-src="img/icons/{{work.image}}" alt="{{work.title}}"/>
+		<p class="title">{{work.title}}</p>
+		<p class="category">{{work.category}}</p>
+		<p class="date">{{work.date}}</p>
+		<p class="description">{{work.description}}</p>
+	</a>
+</div>
