@@ -51,23 +51,23 @@
 		"featured": true,
 		"title": "Camp Sites",
 		"description": "HTML5, CSS3, JavaScript, Ruby on Rails, ROR, Heroku, FCC",
-		"link": {"href":"http://campsites.herokuapp.com", "value":"campsites.herokuapp.com"}
+		"link": {"href":"https://campsites.herokuapp.com/", "value":"campsites.herokuapp.com"}
 	},
 	{
-		"id": "ProfoundideationVR",
+		"id": "realestate",
 		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
-		"featured": false,
-		"title": "[VR] Virtual Reality",
-		"description": "HTML5, CSS3, JavaScript, VR",
-		"link": {"href":"http://ProfoundIdeation.com/VR", "value":"Profoundideation.com/VR"}
+		"featured": true,
+		"title": "Free Local GTA Home Search",
+		"description": "HTML5, CSS3, JavaScript, VR, Real Estate Demo, Demos",
+		"link": {"href":"http://realestate.profoundideation.com/", "value":"realestate.profoundideation.com/"}
 	},
 	{
-		"id": "ProfoundideationVR",
+		"id": "realestatedemo",
 		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
-		"featured": false,
-		"title": "[VR] Virtual Reality",
-		"description": "HTML5, CSS3, JavaScript, VR",
-		"link": {"href":"http://ProfoundIdeation.com/VR", "value":"Profoundideation.com/VR"}
+		"featured": true,
+		"title": "Real Estate Demo",
+		"description": "HTML5, CSS3, JavaScript, Real Estate Demo, Demos",
+		"link": {"href":"http://realestatedemo.profoundideation.com/", "value":"realestatedemo.profoundideation.com"}
 	},
 	{
 		"id": "ProfoundideationVR",
@@ -150,12 +150,12 @@
 		"link": {"href":"http://profoundideation.com/SalesTax/", "value":"Profoundideation.com/SalesTax"}
 	},
 	{
-		"id": "ProfoundideationVR",
+		"id": "ProjectsList",
 		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
-		"featured": false,
-		"title": "Sales Tax Calculator",
-		"description": "HTML5, CSS3, JavaScript, SalesTax, AngularJS, Calculators",
-		"link": {"href":"http://profoundideation.com/SalesTax/", "value":"Profoundideation.com/SalesTax"}
+		"featured": true,
+		"title": "Projects List",
+		"description": "HTML5, CSS3, JavaScript, SalesTax, AngularJS, Projects Lists",
+		"link": {"href":"http://profoundideation.com/ProjectsList/", "value":"Profoundideation.com/ProjectsList"}
 	},
 	{
 		"id": "ProfoundideationVR",
