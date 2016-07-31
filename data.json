@@ -8,14 +8,169 @@
 		"seriousness": "Serious",
 		"type": "Code",
 		"participation": "Lead",
-		"title": "Profound Ideation Inc.",
+		"title": "[2016] Profound Ideation Inc.",
 		"category": "web",
-		"date": 2012,
-		"description": ".",
-		"link": {"href":"http://ProfoundIdeation.com", "value":"Profoundideation.com"},
-		"stack": "HTML5, CSS3, JavaScript"
+		"date": 2016,
+		"description": "HTML5, CSS3, JavaScript, 2016",
+		"link": {"href":"http://ProfoundIdeation.com", "value":"Profoundideation.com"}
 	},
 	{
-
+		"id": "Profoundideation2015",
+		"image": "ProfoundThumbnail.png",
+		"featured": true,
+		"size": 15,
+		"completion": "Done",
+		"seriousness": "Serious",
+		"type": "Code",
+		"participation": "Lead",
+		"title": "[2015] Profound Ideation Inc.",
+		"category": "web",
+		"date": 2015,
+		"description": "HTML5, CSS3, JavaScript, 2015",
+		"link": {"href":"http://ProfoundIdeation.com/2015", "value":"Profoundideation.com/2015"}
+	},
+	{
+		"id": "ProfoundideationVR",
+		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
+		"featured": true,
+		"title": "[VR] Virtual Reality",
+		"description": "HTML5, CSS3, JavaScript, VR, Virtual Reality",
+		"link": {"href":"http://ProfoundIdeation.com/VR", "value":"Profoundideation.com/VR"}
+	},
+	{
+		"id": "WorkProjects",
+		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
+		"featured": false,
+		"title": "Work Projects",
+		"description": "HTML5, CSS3, JavaScript, Work Projects, AngularJS",
+		"link": {"href":"http://profoundideation.com/WorkProjects/", "value":"Profoundideation.com/WorkProjects"}
+	},
+	{
+		"id": "CampSitesFCC",
+		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
+		"featured": true,
+		"title": "Camp Sites",
+		"description": "HTML5, CSS3, JavaScript, Ruby on Rails, ROR, Heroku, FCC",
+		"link": {"href":"https://campsites.herokuapp.com/", "value":"campsites.herokuapp.com"}
+	},
+	{
+		"id": "realestate",
+		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
+		"featured": true,
+		"title": "Free Local GTA Home Search",
+		"description": "HTML5, CSS3, JavaScript, VR, Real Estate Demo, Demos",
+		"link": {"href":"http://realestate.profoundideation.com/", "value":"realestate.profoundideation.com/"}
+	},
+	{
+		"id": "realestatedemo",
+		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
+		"featured": true,
+		"title": "Real Estate Demo",
+		"description": "HTML5, CSS3, JavaScript, Real Estate Demo, Demos",
+		"link": {"href":"http://realestatedemo.profoundideation.com/", "value":"realestatedemo.profoundideation.com"}
+	},
+	{
+		"id": "ProfoundideationVR",
+		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
+		"featured": false,
+		"title": "[VR] Virtual Reality",
+		"description": "HTML5, CSS3, JavaScript, VR",
+		"link": {"href":"http://ProfoundIdeation.com/VR", "value":"Profoundideation.com/VR"}
+	},
+	{
+		"id": "ProfoundideationVR",
+		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
+		"featured": false,
+		"title": "[VR] Virtual Reality",
+		"description": "HTML5, CSS3, JavaScript, VR",
+		"link": {"href":"http://ProfoundIdeation.com/VR", "value":"Profoundideation.com/VR"}
+	},
+	{
+		"id": "ProfoundideationVR",
+		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
+		"featured": false,
+		"title": "[VR] Virtual Reality",
+		"description": "HTML5, CSS3, JavaScript, VR",
+		"link": {"href":"http://ProfoundIdeation.com/VR", "value":"Profoundideation.com/VR"}
+	},
+	{
+		"id": "ProfoundideationVR",
+		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
+		"featured": false,
+		"title": "[VR] Virtual Reality",
+		"description": "HTML5, CSS3, JavaScript, VR",
+		"link": {"href":"http://ProfoundIdeation.com/VR", "value":"Profoundideation.com/VR"}
+	},
+	{
+		"id": "ProfoundideationVR",
+		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
+		"featured": false,
+		"title": "[VR] Virtual Reality",
+		"description": "HTML5, CSS3, JavaScript, VR",
+		"link": {"href":"http://ProfoundIdeation.com/VR", "value":"Profoundideation.com/VR"}
+	},
+	{
+		"id": "ProfoundideationVR",
+		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
+		"featured": false,
+		"title": "[VR] Virtual Reality",
+		"description": "HTML5, CSS3, JavaScript, VR",
+		"link": {"href":"http://ProfoundIdeation.com/VR", "value":"Profoundideation.com/VR"}
+	},
+	{
+		"id": "ProfoundideationVR",
+		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
+		"featured": false,
+		"title": "[VR] Virtual Reality",
+		"description": "HTML5, CSS3, JavaScript, VR",
+		"link": {"href":"http://ProfoundIdeation.com/VR", "value":"Profoundideation.com/VR"}
+	},
+	{
+		"id": "ProfoundideationVR",
+		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
+		"featured": false,
+		"title": "Sales Tax Calculator",
+		"description": "HTML5, CSS3, JavaScript, SalesTax, AngularJS, Calculators",
+		"link": {"href":"http://profoundideation.com/SalesTax/", "value":"Profoundideation.com/SalesTax"}
+	},
+	{
+		"id": "cityscape",
+		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
+		"featured": true,
+		"title": "City Scape - 3D Demo",
+		"description": "HTML5, CSS3, JavaScript, 3D Demo, Demo",
+		"link": {"href":"http://profoundideation.com/cityscape", "value":"Profoundideation.com/cityscape"}
+	},
+	{
+		"id": "pmexpo",
+		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
+		"featured": true,
+		"title": "PM Expo",
+		"description": "HTML5, CSS3, JavaScript, PM Expo",
+		"link": {"href":"http://pmexpo.profoundideation.com/", "value":"Profoundideation.com/pmexpo"}
+	},
+	{
+		"id": "ProjectsList",
+		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
+		"featured": true,
+		"title": "Projects List",
+		"description": "HTML5, CSS3, JavaScript, AngularJS, Projects Lists",
+		"link": {"href":"http://profoundideation.com/ProjectsList/", "value":"Profoundideation.com/ProjectsList"}
+	},
+	{
+		"id": "SalesTax",
+		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
+		"featured": true,
+		"title": "Sales Tax Calculator",
+		"description": "HTML5, CSS3, JavaScript, SalesTax, AngularJS, Calculators",
+		"link": {"href":"http://profoundideation.com/SalesTax/", "value":"Profoundideation.com/SalesTax"}
+	},
+	{
+		"id": "ProfoundideationVR",
+		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
+		"featured": true,
+		"title": "[Blog] WebDevDaniel",
+		"description": "HTML5, CSS3, JavaScript, PHP, WordPress, WebDevDaniel, Blog",
+		"link": {"href":"http://webdevdaniel.com/", "value":"WebDevDaniel"}
 	}
 ]
