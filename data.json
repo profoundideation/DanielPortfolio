@@ -1,7 +1,7 @@
 [
 	{
-		"id": "",
-		"image": "",
+		"id": "Profoundideation",
+		"image": "ProfoundThumbnail.png",
 		"featured": true,
 		"size": 15,
 		"completion": "Done",
@@ -10,8 +10,8 @@
 		"participation": "Lead",
 		"title": "Profound Ideation Inc.",
 		"category": "web",
-		"date": 2012,
-		"description": ".",
+		"date": 2016,
+		"description": "HTML5, CSS3, JavaScript",
 		"link": {"href":"http://ProfoundIdeation.com", "value":"Profoundideation.com"}
 	},
 	{
