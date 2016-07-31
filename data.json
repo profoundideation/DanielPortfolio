@@ -70,70 +70,6 @@
 		"link": {"href":"http://realestatedemo.profoundideation.com/", "value":"realestatedemo.profoundideation.com"}
 	},
 	{
-		"id": "ProfoundideationVR",
-		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
-		"featured": false,
-		"title": "[VR] Virtual Reality",
-		"description": "HTML5, CSS3, JavaScript, VR",
-		"link": {"href":"http://ProfoundIdeation.com/VR", "value":"Profoundideation.com/VR"}
-	},
-	{
-		"id": "ProfoundideationVR",
-		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
-		"featured": false,
-		"title": "[VR] Virtual Reality",
-		"description": "HTML5, CSS3, JavaScript, VR",
-		"link": {"href":"http://ProfoundIdeation.com/VR", "value":"Profoundideation.com/VR"}
-	},
-	{
-		"id": "ProfoundideationVR",
-		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
-		"featured": false,
-		"title": "[VR] Virtual Reality",
-		"description": "HTML5, CSS3, JavaScript, VR",
-		"link": {"href":"http://ProfoundIdeation.com/VR", "value":"Profoundideation.com/VR"}
-	},
-	{
-		"id": "ProfoundideationVR",
-		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
-		"featured": false,
-		"title": "[VR] Virtual Reality",
-		"description": "HTML5, CSS3, JavaScript, VR",
-		"link": {"href":"http://ProfoundIdeation.com/VR", "value":"Profoundideation.com/VR"}
-	},
-	{
-		"id": "ProfoundideationVR",
-		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
-		"featured": false,
-		"title": "[VR] Virtual Reality",
-		"description": "HTML5, CSS3, JavaScript, VR",
-		"link": {"href":"http://ProfoundIdeation.com/VR", "value":"Profoundideation.com/VR"}
-	},
-	{
-		"id": "ProfoundideationVR",
-		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
-		"featured": false,
-		"title": "[VR] Virtual Reality",
-		"description": "HTML5, CSS3, JavaScript, VR",
-		"link": {"href":"http://ProfoundIdeation.com/VR", "value":"Profoundideation.com/VR"}
-	},
-	{
-		"id": "ProfoundideationVR",
-		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
-		"featured": false,
-		"title": "[VR] Virtual Reality",
-		"description": "HTML5, CSS3, JavaScript, VR",
-		"link": {"href":"http://ProfoundIdeation.com/VR", "value":"Profoundideation.com/VR"}
-	},
-	{
-		"id": "ProfoundideationVR",
-		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
-		"featured": false,
-		"title": "Sales Tax Calculator",
-		"description": "HTML5, CSS3, JavaScript, SalesTax, AngularJS, Calculators",
-		"link": {"href":"http://profoundideation.com/SalesTax/", "value":"Profoundideation.com/SalesTax"}
-	},
-	{
 		"id": "cityscape",
 		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
 		"featured": true,
@@ -172,5 +108,70 @@
 		"title": "[Blog] WebDevDaniel",
 		"description": "HTML5, CSS3, JavaScript, PHP, WordPress, WebDevDaniel, Blog",
 		"link": {"href":"http://webdevdaniel.com/", "value":"WebDevDaniel"}
+	},
+
+	{
+		"id": "ProfoundideationVR",
+		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
+		"featured": false,
+		"title": "[VR] Virtual Reality",
+		"description": "HTML5, CSS3, JavaScript, VR",
+		"link": {"href":"http://ProfoundIdeation.com/VR", "value":"Profoundideation.com/VR"}
+	},
+	{
+		"id": "ProfoundideationVR",
+		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
+		"featured": false,
+		"title": "[VR] Virtual Reality",
+		"description": "HTML5, CSS3, JavaScript, VR",
+		"link": {"href":"http://ProfoundIdeation.com/VR", "value":"Profoundideation.com/VR"}
+	},
+	{
+		"id": "ProfoundideationVR",
+		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
+		"featured": false,
+		"title": "[VR] Virtual Reality",
+		"description": "HTML5, CSS3, JavaScript, VR",
+		"link": {"href":"http://ProfoundIdeation.com/VR", "value":"Profoundideation.com/VR"}
+	},
+	{
+		"id": "ProfoundideationVR",
+		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
+		"featured": false,
+		"title": "[VR] Virtual Reality",
+		"description": "HTML5, CSS3, JavaScript, VR",
+		"link": {"href":"http://ProfoundIdeation.com/VR", "value":"Profoundideation.com/VR"}
+	},
+	{
+		"id": "ProfoundideationVR",
+		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
+		"featured": false,
+		"title": "[VR] Virtual Reality",
+		"description": "HTML5, CSS3, JavaScript, VR",
+		"link": {"href":"http://ProfoundIdeation.com/VR", "value":"Profoundideation.com/VR"}
+	},
+	{
+		"id": "ProfoundideationVR",
+		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
+		"featured": false,
+		"title": "[VR] Virtual Reality",
+		"description": "HTML5, CSS3, JavaScript, VR",
+		"link": {"href":"http://ProfoundIdeation.com/VR", "value":"Profoundideation.com/VR"}
+	},
+	{
+		"id": "ProfoundideationVR",
+		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
+		"featured": false,
+		"title": "[VR] Virtual Reality",
+		"description": "HTML5, CSS3, JavaScript, VR",
+		"link": {"href":"http://ProfoundIdeation.com/VR", "value":"Profoundideation.com/VR"}
+	},
+	{
+		"id": "ProfoundideationVR",
+		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
+		"featured": false,
+		"title": "Sales Tax Calculator",
+		"description": "HTML5, CSS3, JavaScript, SalesTax, AngularJS, Calculators",
+		"link": {"href":"http://profoundideation.com/SalesTax/", "value":"Profoundideation.com/SalesTax"}
 	}
 ]
