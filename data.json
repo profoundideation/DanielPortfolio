@@ -134,31 +134,31 @@
 		"link": {"href":"http://profoundideation.com/SalesTax/", "value":"Profoundideation.com/SalesTax"}
 	},
 	{
-		"id": "ProfoundideationVR",
+		"id": "cityscape",
 		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
-		"featured": false,
-		"title": "Sales Tax Calculator",
-		"description": "HTML5, CSS3, JavaScript, SalesTax, AngularJS, Calculators",
-		"link": {"href":"http://profoundideation.com/SalesTax/", "value":"Profoundideation.com/SalesTax"}
+		"featured": true,
+		"title": "City Scape - 3D Demo",
+		"description": "HTML5, CSS3, JavaScript, 3D Demo, Demo",
+		"link": {"href":"http://profoundideation.com/cityscape", "value":"Profoundideation.com/cityscape"}
 	},
 	{
-		"id": "ProfoundideationVR",
+		"id": "pmexpo",
 		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
-		"featured": false,
-		"title": "Sales Tax Calculator",
-		"description": "HTML5, CSS3, JavaScript, SalesTax, AngularJS, Calculators",
-		"link": {"href":"http://profoundideation.com/SalesTax/", "value":"Profoundideation.com/SalesTax"}
+		"featured": true,
+		"title": "PM Expo",
+		"description": "HTML5, CSS3, JavaScript, PM Expo",
+		"link": {"href":"http://pmexpo.profoundideation.com/", "value":"Profoundideation.com/pmexpo"}
 	},
 	{
 		"id": "ProjectsList",
 		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
 		"featured": true,
 		"title": "Projects List",
-		"description": "HTML5, CSS3, JavaScript, SalesTax, AngularJS, Projects Lists",
+		"description": "HTML5, CSS3, JavaScript, AngularJS, Projects Lists",
 		"link": {"href":"http://profoundideation.com/ProjectsList/", "value":"Profoundideation.com/ProjectsList"}
 	},
 	{
-		"id": "ProfoundideationVR",
+		"id": "SalesTax",
 		"image": "DanielProjects-ProfoundIdeation-PlaceHolders.jpg",
 		"featured": true,
 		"title": "Sales Tax Calculator",
