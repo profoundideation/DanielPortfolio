@@ -15,6 +15,18 @@
 		"link": {"href":"http://ProfoundIdeation.com", "value":"Profoundideation.com"}
 	},
 	{
-
+		"id": "Profoundideation",
+		"image": "ProfoundThumbnail.png",
+		"featured": true,
+		"size": 15,
+		"completion": "Done",
+		"seriousness": "Serious",
+		"type": "Code",
+		"participation": "Lead",
+		"title": "Profound Ideation Inc.",
+		"category": "web",
+		"date": 2016,
+		"description": "HTML5, CSS3, JavaScript",
+		"link": {"href":"http://ProfoundIdeation.com", "value":"Profoundideation.com"}
 	}
 ]
